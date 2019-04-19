@@ -1,4 +1,5 @@
 This only test document for test repository.
 On this document I'm writing some text.
 
-Text on this document use English language
+Ini hanya dokumen percobaan untuk repositori tes
+Di dokumen ini saya menuliskan sebuah teks
