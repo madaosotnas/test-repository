@@ -1,0 +1,3 @@
+Panduan uji coba program
+
+1. Membuka program melalui browser dengan mengetik alamat program di www.google.com
