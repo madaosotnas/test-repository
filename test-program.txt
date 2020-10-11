@@ -2,4 +2,4 @@ Panduan uji coba program
 
 1. Membuka program melalui browser dengan mengetik alamat program di www.program.com.
 2. Kemudian mencoba beberapa fitur program seperti, menambah, membaca, mengubah, dan menghapus data.
-3. Kemudian mencoba mengelola beberapa fitur seperti unggah gambar.
+3. Kemudian mencoba mengelola beberapa fitur seperti unggah gambar dan video.
